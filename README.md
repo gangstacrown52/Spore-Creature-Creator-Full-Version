@@ -256,3 +256,6 @@ This repository serves as the official landing page for Spore Creature Creator. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Spore Creature Creator today!**
+
+---
+**Last updated:** 2026-09-09 19:33:31 UTC
