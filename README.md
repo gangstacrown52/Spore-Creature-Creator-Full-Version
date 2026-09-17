@@ -258,4 +258,4 @@ This repository serves as the official landing page for Spore Creature Creator. 
 **Get the most recent version of Spore Creature Creator today!**
 
 ---
-**Last updated:** 2026-09-16 23:23:14 UTC
+**Last updated:** 2026-09-17 02:20:28 UTC
